@@ -1,0 +1,20 @@
+0: astrophysics 
+1: ecology 
+2: social management
+3: genetics
+4: anthropology
+5: geology
+6: chemistry
+7: computer science
+8: university education
+9: project management
+10: system optimization
+11: theoretical physics
+12: quantum physics
+13: scientific research
+14: marine biology
+15: cell biology
+16: scientific modeling
+17: research in university
+18: material science
+19: sociology
